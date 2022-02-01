@@ -1,0 +1,22 @@
+{
+  "name": "test-basics",
+  "version": "1.0.0",
+  "description": "using only node and stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashp8/node-test-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashp8/node-test-basics/issues"
+  },
+  "homepage": "https://github.com/ashp8/node-test-basics#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
